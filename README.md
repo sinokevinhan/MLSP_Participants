@@ -1,7 +1,7 @@
 # MLSP_Participants
 
 tl;dr
- - Make a PR for a folder with your outputs. Max 2 runs per file.
+ - Make a PR for a folder with your outputs. Max 3 runs per file.
  - Include a completed metadata form in your submission
  - See dummy folders for an example
 
@@ -25,11 +25,11 @@ Participants that submit a system description paper should also be willing to re
 
 ## Submission Format
 
-Task participants are welcome to submit as many or as few of the files found in MLSP_Data/Test for evaluation. Please note that the 'All' folder contains the same instances as in the language specific sub-folders. This is for the convenienc of those participating in all languages. If you wish to only participate in one, or a subset of languages, then please submit the language specific file for those languages.
+Task participants are welcome to submit as many or as few of the files found in MLSP_Data/Test for evaluation. Please note that the 'All' folder contains the same instances as in the language specific sub-folders. This is for the convenience of those participating in all languages. If you wish to only participate in one, or a subset of languages, then please submit the language specific file for those languages.
 
 Participants must submit files with labels following the format shown in [MLSP_Data/Trial](https://github.com/MLSP2024/MLSP_Data/tree/main/Data/Trial).
 
-Participants may submit up to 2 runs per file marked as: _1 and _2 (see dummy2 for an example)
+Participants may submit up to 3 runs per file marked as: _1, _2 and _3 (see dummy2 for an example)
 
 ---
 
