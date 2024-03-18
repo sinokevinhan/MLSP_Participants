@@ -1,7 +1,7 @@
 # MLSP_Participants
 
 tl;dr
- - Make a PR for a folder with your outputs. Max 2 runs per file.
+ - Make a PR for a folder with your outputs. Max 3 runs per file.
  - Include a completed metadata form in your submission
  - See dummy folders for an example
 
