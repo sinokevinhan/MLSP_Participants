@@ -1,16 +1,16 @@
 # Task Participant Metadata
 
-###Team Name: 
+### Team Name: 
 
 TEAM_NAME
 
-###Participants:
+### Participants:
 
 1. NAME_1 AFFILIATION_1
 2. NAME_2 AFFILIATION_2
 3. Add additional names and affiliations below..
 
-###Language Survey
+### Language Survey
 
 Please indicate which of the following languages you are able to provide human evaluation for. You should be proficient in a language to provide judgments in it.
 
@@ -25,7 +25,7 @@ Please indicate which of the following languages you are able to provide human e
  - [ ] Sinhala
  - [ ] Spanish
 
-###Files submitted (mark with an X):
+### Files submitted (mark with an X):
 
 | FILE        | LCP  | LS  |
 | ------------|:----:|----:|

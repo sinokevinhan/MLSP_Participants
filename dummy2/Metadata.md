@@ -1,16 +1,16 @@
 # Task Participant Metadata
 
-###Team Name: 
+### Team Name: 
 
 Hogwarts_NLP
 
-###Participants:
+### Participants:
 
 1. Harry Potter, Hogwarts School of Witchcraft and Wizardry, UK
 2. Ron Weasley, Hogwarts School of Witchcraft and Wizardry, UK
 3. Hermione Granger, Hogwarts School of Witchcraft and Wizardry, UK
 
-###Language Survey
+### Language Survey
 
 Please indicate which of the following languages you are able to provide human evaluation for. You should be proficient in a language to provide judgments in it.
 
@@ -25,7 +25,7 @@ Please indicate which of the following languages you are able to provide human e
  - [ ] Sinhala
  - [ ] Spanish
 
-###Files submitted (mark with an X):
+### Files submitted (mark with an X):
 
 | FILE        | LCP  | LS  |
 | ------------|:----:|----:|

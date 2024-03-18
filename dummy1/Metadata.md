@@ -1,15 +1,15 @@
 # Task Participant Metadata
 
-###Team Name: 
+### Team Name: 
 
 Dummy_Team_1
 
-###Participants:
+### Participants:
 
 1. John Smith, University of Life
 2. Jane Doe, Life Polytechnic
 
-###Language Survey
+### Language Survey
 
 Please indicate which of the following languages you are able to provide human evaluation for. You should be proficient in a language to provide judgments in it.
 
@@ -24,7 +24,7 @@ Please indicate which of the following languages you are able to provide human e
  - [ ] Sinhala
  - [X] Spanish
 
-###Files submitted (mark with an X):
+### Files submitted (mark with an X):
 
 | FILE        | LCP  | LS  |
 | ------------|:----:|----:|
