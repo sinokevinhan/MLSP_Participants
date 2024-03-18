@@ -6,21 +6,21 @@ Hogwarts_NLP
 
 ###Participants:
 
-1. Harry Potter, Hogwarts
-2. Ron Weasley, Hogwarts
-3. Hermione Grainger, Hogwarts
+1. Harry Potter, Hogwarts School of Witchcraft and Wizardry, UK
+2. Ron Weasley, Hogwarts School of Witchcraft and Wizardry, UK
+3. Hermione Granger, Hogwarts School of Witchcraft and Wizardry, UK
 
 ###Language Survey
 
 Please indicate which of the following languages you are able to provide human evaluation for. You should be proficient in a language to provide judgments in it.
 
  - [ ] Catalan
- - [ ] English
+ - [X] English
  - [ ] Filipino
  - [ ] French
  - [ ] German
  - [ ] Italian
- - [ ] Japanese
+ - [X] Japanese
  - [ ] Portuguese
  - [ ] Sinhala
  - [ ] Spanish
